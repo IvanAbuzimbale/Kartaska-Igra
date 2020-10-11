@@ -1,0 +1,7 @@
+C:\Users\Ivan\source\repos\Kartaška igra\Kartaška igra\obj\Debug\Kartaška igra.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Kartaška igra\Kartaška igra\obj\Debug\Kartaška igra.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Kartaška igra\Kartaška igra\bin\Debug\Kartaška igra.exe.config
+C:\Users\Ivan\source\repos\Kartaška igra\Kartaška igra\bin\Debug\Kartaška igra.exe
+C:\Users\Ivan\source\repos\Kartaška igra\Kartaška igra\bin\Debug\Kartaška igra.pdb
+C:\Users\Ivan\source\repos\Kartaška igra\Kartaška igra\obj\Debug\Kartaška igra.exe
+C:\Users\Ivan\source\repos\Kartaška igra\Kartaška igra\obj\Debug\Kartaška igra.pdb
